@@ -18,6 +18,6 @@ zig build test
 - Build test for a specific day
 
 ```sh
-zig build test_dayXX
+zig test path_to_file.zig
 
 ```
